@@ -3,6 +3,6 @@
     "license": "MIT",
     "author": "tomotomo",
     "scripts": {
-        "start": "python3 -u sample_d7s.py"
+        "start": "python3 -u main.py"
     }
 }
